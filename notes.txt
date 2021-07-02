@@ -1,0 +1,11 @@
+I'm going to write a list of foods:
+
+Apple
+Orange
+Banana
+Pear
+Grapes
+Bread
+Milk (all types)
+Eggs
+Ham
